@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mikdeak.github.io/sitemap/sitemap.txt
